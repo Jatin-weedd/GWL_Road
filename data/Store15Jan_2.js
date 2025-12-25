@@ -1,0 +1,1 @@
+var json_Store15Jan_2 = {"type":"FeatureCollection","name":"Store15Jan_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"15_Jan":"Store (15 Jan)","Lat":26.21934,"Long":78.18747},"geometry":{"type":"Point","coordinates":[78.18747112,26.21934131]}}]}
